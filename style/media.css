@@ -1,0 +1,35 @@
+@media screen and (max-width: 750px) {
+   .cabeçalho {
+        flex-direction: column;
+    }
+
+    .c-imagem {
+        padding-bottom: 16px;
+    }
+
+    .c-menu {
+        font-size: 14px;
+        gap: 20px;
+    }
+
+    .principal {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .principal-imagem {
+       height: 250px;
+    }
+
+    .conteudo2 {
+        text-align: center;
+        
+    }
+
+    .h3-secundario {
+        font-size: 20px ;
+    }
+
+    
+    
+}
